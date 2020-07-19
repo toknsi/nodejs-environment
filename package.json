@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "browser-sync": "^2.26.10"
+  },
+  "scripts": {
+    "browser-sync:init": "browser-sync init",
+    "browser-sync:start": "browser-sync start --server --config bs-config.js"
+  }
+}
